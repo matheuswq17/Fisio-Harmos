@@ -16,4 +16,4 @@ Este projeto visa desenvolver um sistema seguro, prático e mobile-first para fi
 
 1. **Clone o repositório:**
    ```bash
-   git clone <URL-DO-REPOSITORIO>
+   git clone https://github.com/matheuswq17/Fisio-Harmos
