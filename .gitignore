@@ -1,0 +1,12 @@
+# Diretórios de dependências
+node_modules/
+
+# Arquivos de ambiente
+.env
+
+# Builds e distribuições
+build/
+dist/
+
+# Logs do Firebase e outros temporários
+firebase-debug.log
